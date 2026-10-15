@@ -1,0 +1,11 @@
+{
+  "org": "holoviz",
+  "repo": "spatialpandas",
+  "versions": [
+    {
+      "commit": "36240a117d814363f5d581f675a28c639e0895bc",
+      "tag": "v0.6.0",
+      "parsed_at": "2026-10-15T21:20:17.356849+00:00"
+    }
+  ]
+}
