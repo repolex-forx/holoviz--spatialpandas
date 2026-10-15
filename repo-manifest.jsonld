@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/holoviz/spatialpandas/commit/36240a117d814363f5d581f675a28c639e0895bc",
       "git:hexsha": "36240a117d814363f5d581f675a28c639e0895bc",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.6.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.6.0",
+      "repolex:parsedAt": "2026-10-15T21:20:17.356136+00:00"
     },
     {
       "@id": "https://repolex.ai/r/holoviz/spatialpandas/commit/37ad51fcad9ee02fd3a666d7b85bcbaa9c1cba1e",
